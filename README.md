@@ -1,2 +1,2 @@
 # calculator
-a simple calculator.
+a simple calculator built with javascript.
